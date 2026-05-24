@@ -7,7 +7,7 @@ I’m passionate about growing in my career, picking up new tech skills, and mak
  - 📚 Things I’ve learned while juggling work, deadlines, and debugging
  - 🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle
 
-Building interactive and insightful Power BI dashboards | ETL | RLS | DAX
+Building interactive and insightful Power BI dashboards | ETL | RLS | DAX | SAP BW | SQL | Azure | Snowflake
 
 Automating workflows using PowerShell & Python
 
